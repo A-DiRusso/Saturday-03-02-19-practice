@@ -1,0 +1,14 @@
+/* css goes here */
+
+h1 {
+    position: absolute;
+    top: 65%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    font-family: 'IM Fell English', serif;
+}
+.background {
+    background-size: cover;
+    z-index: 0;
+}
